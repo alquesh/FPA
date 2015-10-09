@@ -1,2 +1,8 @@
-Class Test{
+package FPA;
+
+public class Test{
+
+public static void main(String[] args){
+}
+
 }
